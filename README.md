@@ -8,7 +8,7 @@
 
 ## 파일 설명
 
-[Section_1_project.ipynb](Section_1_project.ipynb): 1주일 간 분석을 위해 순차적으로 어떤 시도를 했는지를 보여준다.
+[Section_1_Project.ipynb](Section_1_Project.ipynb): 1주일 간 분석을 위해 순차적으로 어떤 시도를 했는지를 보여준다.
 
 [Section_1_Project_정리.ipynb](Section_1_Project_정리.ipynb): 발표 자료를 만들기 위해 정리한 코드이다.
 
